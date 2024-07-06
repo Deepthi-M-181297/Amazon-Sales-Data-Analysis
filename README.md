@@ -61,7 +61,7 @@ percentage.
 ![Top 2 Returning Categories Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que10.png)
 
 ## Entity-Relationship Diagram (ERD)
-![ERD Image]()
+![ERD Image](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/ERD_diagram.png)
 
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
