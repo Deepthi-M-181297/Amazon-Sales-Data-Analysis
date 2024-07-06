@@ -30,38 +30,38 @@ During the analysis, the following key questions were addressed using SQL querie
 analysis techniques:
 
 1. Find out the top 5 customers who made the highest profits.
-![Top 5 Customers Query](insert_image_link_here)
+![Top 5 Customers Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que1.png)
 
 2. Find out the average quantity ordered per category.
-![Average Quantity Query](insert_image_link_here)
+![Average Quantity Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que2.png)
 
 3. Identify the top 5 products that have generated the highest revenue.
-![Top 5 Revenue Products Query](insert_image_link_here)
+![Top 5 Revenue Products Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que3.png)
 
 4. Determine the top 5 products whose revenue has decreased compared to the previous year.
-![Decreased Revenue Products Query](insert_image_link_here)
+![Decreased Revenue Products Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que4.png)
 
 5. Identify the highest profitable sub-category.
-![Highest Profitable Sub-category Query](insert_image_link_here)
+![Highest Profitable Sub-category Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que5.png)
 
 6. Find out the states with the highest total orders.
-![States with Highest Orders Query](insert_image_link_here)
+![States with Highest Orders Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que6.png)
 
 7. Determine the month with the highest number of orders.
-![Month with Highest Orders Query](insert_image_link_here)
+![Month with Highest Orders Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que7.png)
 
 8. Calculate the profit margin percentage for each sale (Profit divided by Sales).
-![Profit Margin Calculation Query](insert_image_link_here)
+![Profit Margin Calculation Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que8.png)
 
 9. Calculate the percentage contribution of each sub-category.
-![Sub-category Contribution Query](insert_image_link_here)
+![Sub-category Contribution Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que9.png)
 
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
-![Top 2 Returning Categories Query](insert_image_link_here)
+![Top 2 Returning Categories Query](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/que10.png)
 
 ## Entity-Relationship Diagram (ERD)
-![ERD Image](insert_banner_image_link_here)
+![ERD Image](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/ERD_amazon.pgerd)
 
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
