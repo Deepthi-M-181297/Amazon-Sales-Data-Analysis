@@ -2,7 +2,7 @@
 
 ![Banner Image](https://github.com/Deepthi-M-181297/Amazon-Sales-Data-Analysis/blob/main/amazon_india_wide_image.jpg)
 
-Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
+Welcome to the Amazon Sales Analysis project! In this project, we deliver into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
 understand customer behavior, and improve business operations.
 
