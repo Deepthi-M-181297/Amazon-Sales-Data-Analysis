@@ -153,7 +153,6 @@ order by 3 desc
 limit 5
 
 --Que4.Determine the top 5 products whose revenue has decreased compared to the previous year.
-select * from orders
 with cte1 as
 (
 select 
@@ -184,7 +183,6 @@ select
 	cte1.product_name,
 	cte1.previous_year_revenue,
 	cte2.current_year_revenue
-	
 from cte1
 join cte2
 on cte1.product_id = cte2.product_id
